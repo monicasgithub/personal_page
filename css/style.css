@@ -1,0 +1,124 @@
+
+body {
+    background-color: rgb(176, 255, 248);
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+    color:rgb(45, 57, 129);
+    margin:0;
+}
+
+.nav-bar{
+    height: 60px;
+    background-color: aquamarine;
+}
+
+.top-container {
+    background-color:rgb(176, 255, 248);
+    text-align: center;
+    padding: 80px 40px 0px 40px;
+    font-family:'Delicious Handrawn', cursive;
+}
+
+h1 {
+    line-height: 1;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size:6rem;
+}
+
+.top-paragraph {
+    font-size: 3rem;
+    margin: 15px; 
+}
+
+.middle-container {
+    padding: 0px 40px 0px 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.profile-pic {
+    border: solid 5px rgb(45, 57, 129);
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top: 40px;
+
+}
+
+hr {
+    border: none;
+    height: 3px;
+    background-color: rgb(135, 231, 255);
+}
+
+.skill-row {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+
+.skills-text{
+    max-width: 1000px;
+
+}
+
+.skills-header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.skills-description {
+    margin-top: 10px;
+}
+
+.skills-img {
+    width:90px;
+    height:90px;
+    padding:20px 30px 20px 0px;
+    float: left;
+}
+
+.exp-row {
+    display: block;
+}
+
+.exp-header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.exp-description {
+    margin-top: 10px;
+}
+
+.exp-img {
+    width: 90px;
+    height: 100%;
+    padding:20px 30px 20px 0px;
+    float: left;
+}
+
+.btn {
+    color:rgb(45, 57, 129);
+}
+
+
+.bottom-container {
+    padding: 50px 40px 0px 40px;
+}
+
+.footer-link {
+    color:rgb(45, 57, 129);
+    display:block;
+    text-align: center;
+}
+
+
+
+
+
+
